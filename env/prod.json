@@ -1,0 +1,5 @@
+{
+	"NODE_ENV": "dev",
+	"WSS_URL": "wss://localost:8080",
+	"BASE_URL": "https://ku.qingnian8.com/dataApi"
+}
